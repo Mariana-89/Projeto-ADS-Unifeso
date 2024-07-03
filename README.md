@@ -27,7 +27,7 @@ O seu navegador padrão executará o sistema no endereço 'localhost:3000'
 
 Este projeto utiliza as linguagens de marcação HTML e CSS e a linguagem de programação JavaScript.
 
-* [React.JS]((https://react.dev/)) - Framework web utilizado.
+* [React.JS](https://react.dev/) - Framework web utilizado.
 
 
 ## 📌 Versão
