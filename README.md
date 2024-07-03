@@ -12,7 +12,7 @@ Para executar o sistema, será necessário ter instalado o Node.js (versão 20.1
 
 ```
 Para verificar as versões da sua máquina, acesse o CMD e digite:
-<Node --version>
+<node --version>
 <npm --version>
 
 ```
@@ -20,7 +20,7 @@ Para verificar as versões da sua máquina, acesse o CMD e digite:
 ### 🔧 Instalação
 
 Baixe o repositório do GIT e abra a pasta raiz do projeto com o Visual Studio code.
-Abra o terminal (ctrol + ') e rode os comandos <npm i> e posteriormente <npm start>.
+Abra o terminal (ctrol + ') e rode os comandos 'npm i' e posteriormente 'npm start'.
 O seu navegador padrão executará o sistema no endereço 'localhost:3000'
 
 ## 🛠️ Construído com
