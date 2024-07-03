@@ -14,20 +14,20 @@ Para executar o sistema, será necessário ter instalado o Node.js (versão 20.1
 Para verificar as versões da sua máquina, acesse o CMD e digite:
 <node --version>
 <npm --version>
-
 ```
 
 ### 🔧 Instalação
 
 Baixe o repositório do GIT e abra a pasta raiz do projeto com o Visual Studio code.
 Abra o terminal (ctrol + ') e rode os comandos 'npm i' e posteriormente 'npm start'.
+
 O seu navegador padrão executará o sistema no endereço 'localhost:3000'
 
 ## 🛠️ Construído com
 
-Este projeto utiliza as linguagem de marcação HTML e CSS e a liguagem de programação JavaScript.
+Este projeto utiliza as linguagens de marcação HTML e CSS e a linguagem de programação JavaScript.
 
-* [React.JS](https://react.dev/)) - Framework web utilizado.
+* [React.JS]((https://react.dev/)) - Framework web utilizado.
 
 
 ## 📌 Versão
